@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DigitalisierungsAuftrag
+        xsi:noNamespaceSchemaLocation="Digitalisierungsauftrag.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Ablieferung>
+        <Ablieferungsnummer>string</Ablieferungsnummer>
+        <AblieferndeStelle>string</AblieferndeStelle>
+        <AktenbildnerName>string</AktenbildnerName>
+    </Ablieferung>
+    <OrdnungsSystem>
+        <Signatur>string</Signatur>
+        <Name>string</Name>
+        <UntergeordnetesOrdnungsSystem>
+            <Signatur>string</Signatur>
+            <Name>string</Name>
+            <Stufe>string</Stufe>
+        </UntergeordnetesOrdnungsSystem>
+    </OrdnungsSystem>
+    <Dossier>
+        <Signatur>string</Signatur>
+        <Titel>string</Titel>
+        <Entstehungszeitraum>string</Entstehungszeitraum>
+        <Stufe>string</Stufe>
+        <FrueheresAktenzeichen>string</FrueheresAktenzeichen>
+        <Aktenzeichen>string</Aktenzeichen>
+        <Darin>string</Darin>
+        <Form>string</Form>
+        <Archivnummer>string</Archivnummer>
+        <VerzEinheitId>-4198</VerzEinheitId>
+    </Dossier>
+    <Auftragsdaten>
+        <BemerkungenKunde>string</BemerkungenKunde>
+        <BemerkungenBar>string</BemerkungenBar>
+        <AuftragsId>42</AuftragsId>
+        <Bestelldatum>2002-11-18</Bestelldatum>
+        <BestelleinheitId>string</BestelleinheitId>
+        <Benutzungskopie>0</Benutzungskopie>
+    </Auftragsdaten>
+</DigitalisierungsAuftrag>
