@@ -8,7 +8,7 @@
         <AuftragsId>101</AuftragsId>
         <BemerkungenBar>asdasd</BemerkungenBar>
         <BemerkungenKunde></BemerkungenKunde>
-        <Benutzungskopie>false</Benutzungskopie>
+        <Benutzungskopie>true</Benutzungskopie>
         <Bestelldatum>2018-06-04T18:04:20.927</Bestelldatum>
         <BestelleinheitId>123456</BestelleinheitId>
     </Auftragsdaten>
