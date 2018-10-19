@@ -1,0 +1,119 @@
+<DigitalisierungsAuftrag xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <Ablieferung>
+        <AblieferndeStelle>AblieferndeStelle</AblieferndeStelle>
+        <Ablieferungsnummer>Ablieferungsnummer</Ablieferungsnummer>
+        <AktenbildnerName>AktenbildnerName</AktenbildnerName>
+    </Ablieferung>
+    <Auftragsdaten>
+        <AuftragsId>101</AuftragsId>
+        <BemerkungenBar>asdasd</BemerkungenBar>
+        <BemerkungenKunde></BemerkungenKunde>
+        <Benutzungskopie>true</Benutzungskopie>
+        <Bestelldatum>2018-06-04T18:04:20.927</Bestelldatum>
+        <BestelleinheitId>123456</BestelleinheitId>
+    </Auftragsdaten>
+    <Dossier>
+        <Aktenzeichen>6.2005</Aktenzeichen>
+        <Archivnummer i:nil="true"/>
+        <Behaeltnisse/>
+        <Darin i:nil="true"/>
+        <Entstehungszeitraum>2005.07.20</Entstehungszeitraum>
+        <Form>Test</Form>
+        <FrueheresAktenzeichen i:nil="true"/>
+        <Signatur>Signatur</Signatur>
+        <Stufe>Dossier</Stufe>
+        <Titel>𝄞ßÄÖÜ«∑€®†Ω¨¨øπ•±‘æœ@∆ºª©ƒ∂‚å¥≈ç√∫~~∞…–—÷˛˘‹◊Ù‡’ÆŒﬂˆıÓÌÏ™ÍÅ»„‰¸ˇÁØ∏°</Titel>
+        <UntergeordneteVerzEinheiten>
+            <VerzEinheitType>
+                <Aktenzeichen i:nil="true"/>
+                <Archivnummer i:nil="true"/>
+                <Behaeltnisse>
+                    <BehaeltnisType>
+                        <BehaeltnisCode>BehaeltnisCode</BehaeltnisCode>
+                        <BehaeltnisTyp>Kassette</BehaeltnisTyp>
+                        <EnthalteneVerzEinheiten>
+                            <VerzEinheitKurzType>
+                                <Aktenzeichen i:nil="true"/>
+                                <Entstehungszeitraum>2005.08.20</Entstehungszeitraum>
+                                <Signatur>Signatur</Signatur>
+                                <Titel>Titel</Titel>
+                            </VerzEinheitKurzType>
+                            <VerzEinheitKurzType>
+                                <Aktenzeichen i:nil="true"/>
+                                <Entstehungszeitraum>2005.08.20</Entstehungszeitraum>
+                                <Signatur>Signatur</Signatur>
+                                <Titel>Titel</Titel>
+                            </VerzEinheitKurzType>
+                        </EnthalteneVerzEinheiten>
+                        <InformationsTraeger>InformationsTraeger</InformationsTraeger>
+                        <Standort>Standort</Standort>
+                    </BehaeltnisType>
+                </Behaeltnisse>
+                <Darin>Inhaltsangabe:</Darin>
+                <Entstehungszeitraum>2005.08.20</Entstehungszeitraum>
+                <Form>Video</Form>
+                <FrueheresAktenzeichen i:nil="true"/>
+                <Signatur>Signatur</Signatur>
+                <Stufe>Dokument</Stufe>
+                <Titel>Titel</Titel>
+                <UntergeordneteVerzEinheiten i:nil="true"/>
+                <VerzEinheitId>123456</VerzEinheitId>
+                <Zusatzkomponente i:nil="true"/>
+            </VerzEinheitType>
+            <VerzEinheitType>
+                <Aktenzeichen i:nil="true"/>
+                <Archivnummer i:nil="true"/>
+                <Behaeltnisse>
+                    <BehaeltnisType>
+                        <BehaeltnisCode>BehaeltnisCode</BehaeltnisCode>
+                        <BehaeltnisTyp>Kassette</BehaeltnisTyp>
+                        <EnthalteneVerzEinheiten>
+                            <VerzEinheitKurzType>
+                                <Aktenzeichen i:nil="true"/>
+                                <Entstehungszeitraum>2005.08.20</Entstehungszeitraum>
+                                <Signatur>Signatur</Signatur>
+                                <Titel>Titel</Titel>
+                            </VerzEinheitKurzType>
+                            <VerzEinheitKurzType>
+                                <Aktenzeichen i:nil="true"/>
+                                <Entstehungszeitraum>2005.08.20</Entstehungszeitraum>
+                                <Signatur>Signatur</Signatur>
+                                <Titel>Titel</Titel>
+                            </VerzEinheitKurzType>
+                        </EnthalteneVerzEinheiten>
+                        <InformationsTraeger>InformationsTraeger</InformationsTraeger>
+                        <Standort>Standort</Standort>
+                    </BehaeltnisType>
+                </Behaeltnisse>
+                <Darin>Inhaltsangabe:</Darin>
+                <Entstehungszeitraum>2005.08.20</Entstehungszeitraum>
+                <Form>Video</Form>
+                <FrueheresAktenzeichen i:nil="true"/>
+                <Signatur>Signatur</Signatur>
+                <Stufe>Dokument</Stufe>
+                <Titel>Titel</Titel>
+                <UntergeordneteVerzEinheiten i:nil="true"/>
+                <VerzEinheitId>123456</VerzEinheitId>
+                <Zusatzkomponente i:nil="true"/>
+            </VerzEinheitType>
+        </UntergeordneteVerzEinheiten>
+        <VerzEinheitId>1234567</VerzEinheitId>
+        <Zusatzkomponente i:nil="true"/>
+    </Dossier>
+    <OrdnungsSystem>
+        <Name>Name</Name>
+        <Signatur>Signatur</Signatur>
+        <Stufe>Bestand</Stufe>
+        <UntergeordnetesOrdnungsSystem>
+            <Name>Name2</Name>
+            <Signatur>Signatur</Signatur>
+            <Stufe>Serie</Stufe>
+            <UntergeordnetesOrdnungsSystem>
+                <Name>Name3</Name>
+                <Signatur>Signatur</Signatur>
+                <Stufe>Serie</Stufe>
+                <UntergeordnetesOrdnungsSystem i:nil="true"/>
+            </UntergeordnetesOrdnungsSystem>
+        </UntergeordnetesOrdnungsSystem>
+    </OrdnungsSystem>
+</DigitalisierungsAuftrag>
